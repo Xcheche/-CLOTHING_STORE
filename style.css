@@ -474,3 +474,19 @@ button {
     text-align: center;
     background-color:  #E7F5F8;
 }
+
+
+/* for blog page */
+.blogimg1{
+    float: right;
+     margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+.blogimg2{
+    float: left;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+/* end of css for blog page */
