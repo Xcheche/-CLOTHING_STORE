@@ -496,7 +496,7 @@ button {
     width: 100%;
     overflow: hidden;
     background-color: #f0f0f0;
-    border: 1px solid #ccc;
+    /* border: 1px solid #ccc; */
     padding: 10px 0;
     margin: auto;
 }
@@ -504,7 +504,7 @@ button {
 .marquee {
     display: inline-block;
     white-space: nowrap;
-    animation: marquee 10s linear infinite;
+    animation: marquee 30s linear infinite;
 }
 
 @keyframes marquee {
