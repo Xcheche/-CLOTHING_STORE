@@ -523,3 +523,18 @@ end of marquese */
     height: 100%;
     margin: auto;
 }
+
+/* Digital Clock Styles */
+.clock {
+    color: #0bb2e0;
+    font-size: 5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin-top: 20px; /* Adjust as needed */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
