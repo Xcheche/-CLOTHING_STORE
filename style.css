@@ -532,8 +532,8 @@ end of marquese */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     text-align: center;
     margin-top: 100px; /* Adjust as needed */
+     margin-right: 20px;
     position: fixed;
-    margin-right: 20px;
     top: 0;
     left: 0;
     right: 0;
